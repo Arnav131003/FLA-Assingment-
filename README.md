@@ -18,3 +18,4 @@ run `python main.py`
 # Team Details 
 ### Ankit Singh (RA2111026010105)
 ### Arnav Sharma (RA2111026010075)
+### Pratham Agarwalla (RA2111026010073)
