@@ -1,5 +1,7 @@
 # FLA Assingment ( Regular Expression to Non Deterministic Finite Automata)
-A program that takes a regular expression and creates an  NFA that accepts it. The description of an NFA should be compatible with a NFA 2  DFA program, which means that it can be translated into a form that can be run on a  DFA simulator.
+This tool is designed to convert regular expressions (regex) into Non-deterministic Finite Automata (NFA). Regular expressions are a powerful way to describe patterns within strings, and NFAs are fundamental in the field of automata theory.
+
+
 
 # Setup and Run
 run `pip install -r requirements.txt`
