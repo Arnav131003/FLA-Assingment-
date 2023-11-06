@@ -1,7 +1,13 @@
 # FLA Assingment ( Regular Expression to Non Deterministic Finite Automata)
 This tool is designed to convert regular expressions (regex) into Non-deterministic Finite Automata (NFA). Regular expressions are a powerful way to describe patterns within strings, and NFAs are fundamental in the field of automata theory.
 
+## What Are Regular Expressions?
 
+Regular expressions are a sequence of characters that define a search pattern. They are widely used for pattern matching, text validation, and text manipulation. Regex allows you to search, match, and extract data from strings based on specific patterns.
+
+## What are NFA ?
+
+An NFA (Nondeterministic Finite Automaton) is a computational model used in automata theory to recognize regular languages and patterns with states that can have multiple possible transitions for the same input symbol.
 
 # Setup and Run
 run `pip install -r requirements.txt`
