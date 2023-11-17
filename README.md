@@ -20,8 +20,6 @@ run `python main.py`
 
 ![image](https://user-images.githubusercontent.com/53188087/167325297-4daaf41b-afe4-4391-ba50-298d12c3f342.png)
 
-![image](https://user-images.githubusercontent.com/53188087/167325354-0caf15fe-61d5-40b5-aad6-4e238a3bd8e4.png)
-
 
 # Team Details 
 ### Ankit Singh (RA2111026010105)
